@@ -1,5 +1,5 @@
 CMPP 3000 – E-Commerce Order Management System
-
+[Simulation file is the final project]
 By Group 7, CMPP 3000 BSA, Fall 2025 – BTech
 Drew, Mihir, Joanna, Samia, Muqadas, Muhammad
 
